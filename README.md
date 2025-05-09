@@ -10,8 +10,7 @@
 ## 🚀 关于我
 
 - 🔧 项目：[smart-naming](https://github.com/EricBoum/smart-naming)：基于中文语义智能生成英文变量名
-- 🌱 学习：TypeScript / Node.js / Webpack / AI 开发工具
-- 🧩 兴趣：组件库、命令行工具、前端工程化
+- 🌱 学习：Vue / React / TypeScript / Node.js / Webpack / AI 开发工具
 
 ---
 
