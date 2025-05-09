@@ -2,7 +2,7 @@
 <h3 align="center">前端开发者 · 热爱技术 · 崇尚极简与高效</h3>
 
 <p align="center">
-  <img src="https://badgen.net/badge/👁‍🗨%20访问量/Keep%20Looking/blueviolet?icon=eye" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=EricBoum&label=👁️%20Profile%20Views&color=ff69b4&style=flat-square" alt="访问量统计" />
 </p>
 
 ---
