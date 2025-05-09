@@ -2,12 +2,8 @@
 <h3 align="center">前端开发者 · 热爱技术 · 崇尚极简与高效</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EricBoum&label=访问量&color=0e75b6&style=flat-square" alt="访问量统计" />
+  <img src="https://badgen.net/badge/👁‍🗨%20访问量/Keep%20Looking/blueviolet?icon=eye" alt="访问量统计" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Vue3+%7C+TypeScript+%7C+Vite+%7C+Node.js;热衷提升开发体验+%7C+探索AI+辅助工具;代码即艺术+%7C+调试是信仰" />
-</div>
 
 ---
 
@@ -43,10 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBoum&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<p align="center">「写代码如写诗，越是简洁，越能打动人心。」</p>
