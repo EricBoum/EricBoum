@@ -11,8 +11,8 @@
 
 以下是我维护的一些项目，持续更新中：
 
-- **[smart-naming](https://github.com/EricBoum/smart-naming)** <img valign="middle" src="https://img.shields.io/npm/dt/smart-naming?color=green&style=flat-square&logo=npm" alt="npm 下载统计" />  
-  基于中文语义智能生成英文变量名
+- **[smart-naming](https://github.com/EricBoum/smart-naming)：基于中文语义智能生成英文变量名** <img valign="middle" src="https://img.shields.io/npm/dt/smart-naming?&logo=npm" alt="npm 下载统计" />  
+  
 
 ## 🌱 学习
 
