@@ -23,18 +23,3 @@ Vue / React / TypeScript / Node.js / Webpack / AI 开发工具
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,typescript,javascript,vite,nodejs,webpack,git,vscode&theme=dark" alt="技术栈" />
 </p>
-
----
-
-
-## 📈 活动统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EricBoum&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="活动统计" />
-</p>
-
-## 📊 使用语言
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBoum&layout=compact&theme=tokyonight&hide_border=true" alt="使用语言" />
-</p>
