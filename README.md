@@ -35,5 +35,6 @@ Vue / React / TypeScript / Node.js / Webpack / AI 开发工具
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricBoum&theme=react-dark" alt="热力图" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricBoum&theme=github
+" alt="热力图" />
 </p>
