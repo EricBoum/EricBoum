@@ -31,3 +31,9 @@ Vue / React / TypeScript / Node.js / Webpack / AI 开发工具
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,typescript,javascript,vite,nodejs,webpack,git,vscode&theme=dark" alt="技术栈" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EricBoum&theme=react-dark" alt="热力图" />
+</p>
