@@ -14,7 +14,7 @@
 - **[smart-naming](https://github.com/EricBoum/smart-naming)** <img valign="middle" src="https://img.shields.io/npm/dt/smart-naming?color=green&style=flat-square&logo=npm" alt="npm 下载统计" />  
   基于中文语义智能生成英文变量名
 
-- **[stardew-tab](https://github.com/EricBoum/stardew-tab)** 
+- **[Stardew-tab](https://github.com/EricBoum/Stardew-tab)** 
   <img valign="middle" src="https://img.shields.io/chrome-web-store/d/bcefonnhpfkohlafkkjopagaceijfflo?label=user&logo=googlechrome" />
   <img valign="middle" src="https://img.shields.io/chrome-web-store/stars/bcefonnhpfkohlafkkjopagaceijfflo?logo=googlechrome" />
   <br />
